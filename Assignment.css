@@ -1,0 +1,70 @@
+body{
+    background-color:mistyrose;
+}
+h1{
+    font-size: 40px;
+    font-family:fantasy;
+    text-align: center;
+    color: crimson;
+}
+p{
+    font-size:20px;
+    font-family: sans-serif;
+    text-align:center;
+    color:deeppink ;
+}
+.game{
+    font-size: 50px;
+    font-family: monospace;
+    text-align: center;
+    color: firebrick;
+    background-color: lightseagreen;
+    border-style: solid;
+    border-width: 5px;
+    border-color: tomato;
+}
+.button1{
+    border:10px solid red;
+    font-size: 70px; 
+    color:red;
+}
+.button2{
+    border:10px solid green;
+    font-size: 70px; 
+    color:green;
+}
+.button3{
+    border:10px solid blue;
+    font-size: 70px; 
+    color:blue;
+}
+.button4{
+    border:10px solid yellow;
+    font-size: 70px; 
+    color: yellow;
+}
+.button5{
+    border:10px solid black;
+    font-size: 70px; 
+    color:black;
+}
+.button1:hover{
+    background-color: red;
+    color: white;
+}
+.button2:hover{
+    background-color: green;
+    color:black;
+}
+.button3:hover{
+    background-color:blue;
+    color: white;
+}
+.button4:hover{
+    background-color: yellow;
+    color:black;
+}
+.button5:hover{
+    background-color: black;
+    color:white;
+}
